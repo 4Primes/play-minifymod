@@ -1,4 +1,4 @@
-self: include -> minifymod 1.0.9
+self: include -> minimod 1.0.9
 
 require:
     - play
